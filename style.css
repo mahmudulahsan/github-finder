@@ -1,0 +1,21 @@
+
+body{
+    background-color: #090c10;
+}
+
+#about{
+    color: #e5e5e5; 
+    font-family: 'Noto Sans JP', sans-serif; 
+    font-size: 20px;
+}
+
+#bio{
+    font-style: italic;
+    font-size: 20px;
+    color: azure;
+}
+
+#propic{
+    font-size: 100px;
+    color: white;
+}
